@@ -3,6 +3,5 @@
 * 2. Heart Rate Prediction
 * 3. Travel Insurance Prediction
 * 4. Churn Rate Prediction
-* 5. 
-* 6. Clustering Customer Segmentation
-* 7. Banking Loan Prediction
+* 5. Clustering Customer Segmentation
+* 6. Banking Loan Prediction(*)
